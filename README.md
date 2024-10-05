@@ -3,4 +3,4 @@
 | RollNo | Name   | GitHub Username    |
 | :---:   | :---: | :---: |
 | 1214214 | Santhosh NC   | @SanthoshNC   |
-| 1214215 | Keerthana B  | @KeerthanaB  |
+| 23BAD032 | Keerthana B  | @KeerthanaB  |
